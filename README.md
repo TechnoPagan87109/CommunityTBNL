@@ -3,6 +3,7 @@ Welcome to the CommunityTBNL (ToBeNamedLater) repository! This project aims to f
 What is Post-Scarcity?
 
 In this context, Post-Scarcity refers to a society in which autonomous labor efficiently gathers the necessary resources and energy to produce everything required without significant cost implications.
+
 Near Post-Scarcity Emulation
 
 At present, it is not feasible for a self-funded, small community to afford the complete infrastructure required for full Post-Scarcity. Therefore, our approach focuses on an emulation of Post-Scarcity, which we refer to as near Post-Scarcity.
@@ -14,6 +15,7 @@ Since automation and AI technologies have not yet reached a point where all proc
 Dependencies and Outsourcing
 
 While our community strives for self-sufficiency, there are certain items that cannot be produced within a small community at this stage. The most notable examples are Large Scale Integrated Circuit devices, including processors, SSD memory, GPUs, and similar components. To address this, we will rely on the proceeds from surplus items we can produce within the community. Sales of surplus production on the open market will provide the necessary funds to acquire these externally produced items. It is also worth noting that there will always be certain expenses, such as tax payments, subscriptions, and licenses, which require cash.
+
 Contributing
 
 We welcome contributions from individuals passionate about sustainable living, automation, and community building. If you are interested in collaborating on this project, please follow these steps:
