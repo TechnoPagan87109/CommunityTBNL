@@ -1,6 +1,6 @@
 Welcome to the CommunityTBNL (ToBeNamedLater) repository!
 
-This project aims to facilitate collaboration on the development of an open-source, replicable, near Post-Scarcity ecovillage. Our goal is to create a sustainable community where autonomous labor, combined with the utilization of energy and raw materials, can produce all the goods and services needed by that society.
+This project aims to facilitate collaboration on the development of an open-source, replicable, near Post-Scarcity ecovillage. Our goal is to create a sustainable community where autonomous labor, combined with the utilization of energy and raw materials, can produce all the goods and services needed by that community.
 
 What is Post-Scarcity?
 
