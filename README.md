@@ -4,7 +4,7 @@ This project aims to facilitate collaboration on the development of an open-sour
 
 What is Post-Scarcity?
 
-In this context, Post-Scarcity refers to a society in which autonomous labor efficiently gathers the necessary resources and energy to produce everything at virtually no cost.
+In this context, Post-Scarcity refers to a society in which autonomous labor efficiently gathers the necessary resources and energy to produce everything that society needs at virtually no cost.
 
 Near Post-Scarcity Emulation
 
