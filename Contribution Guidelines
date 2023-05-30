@@ -1,4 +1,4 @@
-    Introduction: Start with a brief introduction, expressing your appreciation for contributions and emphasizing the importance of community collaboration.
+    Welcome to the CommunityTBNL GitHub repository. Thank you for making it this far. I hope you stay. While I've been collecting ideas for this community, there is too much to do for any one person. I'm putting all my ideas and research into this repository. It is my hope that you'll add to it as well and between us, create this new kind of community.
 
     Types of Contributions: Specify the different types of contributions you welcome. This can include but is not limited to code contributions, documentation improvements, bug reports, feature requests, design suggestions, and testing feedback.
 
@@ -11,8 +11,7 @@
     Guidelines for Contributions: Outline the guidelines and best practices for making contributions. Here are some common areas to cover:
         Code style and formatting: Specify any coding conventions or style guidelines you follow. If there are specific linters or formatters to use, mention them.
         Branching and version control: Explain the branching model you follow (e.g., GitFlow) and how contributors should create branches, commit messages, and submit pull requests.
-        Testing: Encourage contributors to include tests with their code changes and provide guidance on writing effective tests.
-        Documentation: Emphasize the importance of keeping documentation up to date and encourage contributors to document their changes.
+               Documentation: Emphasize the importance of keeping documentation up to date and encourage contributors to document their changes.
         Code review process: Explain how code reviews are conducted and what contributors can expect during the review process.
         Handling issues and feature requests: Explain how issues and feature requests should be reported, including any necessary templates or guidelines for providing relevant information.
 
