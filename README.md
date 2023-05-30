@@ -16,7 +16,7 @@ Since automation and AI technologies have not yet reached a point where all proc
 
 ### Dependencies and Outsourcing
 
-While our community strives for self-sufficiency, there are certain items that cannot be produced within a small community at this stage. The most notable examples are Large Scale Integrated Circuit devices, including processors, SSD memory, GPUs, and alike and as processor intensive as this community would need to be, it becomes a significant issue. To address this, we will rely on the proceeds from surplus items we can produce within the community. Sales of surplus production on the open market will provide the necessary funds to acquire these externally produced items. It is also worth noting that there will always be certain expenses, such as tax payments, subscriptions, and licenses, which require cash.
+While our community strives for self-sufficiency, there are certain items that cannot be produced within a small community at this stage. The most notable examples are Large Scale Integrated Circuit devices, including processors, SSD memory, GPUs, and alike and as processor intensive as this community would need to be, it becomes a significant issue. To address this, we will rely on the proceeds from surplus items we can produce within the community. Sales of surplus production on the open market will provide the necessary funds to acquire these externally produced items. It is also worth noting that there will always be certain expenses, such as tax payments, subscriptions, and licenses, which will always require cash.
 
 ### Contributing
 
@@ -36,6 +36,6 @@ This project is licensed under the Creative Commons Zero v1.0 Universal License.
 
 ### Contact
 
-If you have any questions, suggestions, or feedback, please feel free to reach out to us [insert contact information].
+If you have any questions, suggestions, or feedback, please feel free to reach out to me at communitytbnl@gmail.com
 
 Let's work together to build a sustainable, replicable, near Post-Scarcity ecovillage and from there, move towards full Post-Scarcity 
