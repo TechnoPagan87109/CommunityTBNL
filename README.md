@@ -32,7 +32,7 @@ Please refer to the contribution guidelines [link to be provided] for further in
 
 ### License
 
-This project is licensed under the Creative Commons Zero v1.0 Universal License. By contributing to this repository, you agree to adhere to the terms and conditions outlined in the license.
+This project is licensed under the [Creative Commons Zero v1.0 Universal License](https://github.com/TechnoPagan87109/CommunityTBNL/tree/main/LICENSE). By contributing to this repository, you agree to adhere to the terms and conditions outlined in the license.
 
 ### Contact
 
