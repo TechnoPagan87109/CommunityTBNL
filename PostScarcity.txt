@@ -1,0 +1,1 @@
+For the purpose of this project, a Post-Scarcity society is defined as a society where [Autonomous Labor](AutonomousLabor.txt) collects the [energy](Energy.txt) and [raw materials](RawMaterials.txt) necessary to produce the [goods and services](GoodsAndServices.txt) that society needs at [virtually no cost](VirtuallyNoCost.txt)
