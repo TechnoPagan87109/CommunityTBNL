@@ -6,9 +6,9 @@ What is Post-Scarcity?
 
 In this context, Post-Scarcity refers to a society in which autonomous labor efficiently gathers the necessary resources and energy to produce everything required without significant cost implications.
 
-Near Post-Scarcity Emulation
+An Emulation of Post-Scarcity 
 
-At present, it is not feasible for a self-funded, small community to afford the complete infrastructure required for full Post-Scarcity. Therefore, our approach focuses on an emulation of Post-Scarcity, which I refer to as near Post-Scarcity.
+At present, it is not feasible for a self-funded, small community to afford the infrastructure required for full Post-Scarcity. Therefore, our approach focuses on an emulation of Post-Scarcity, which we can call near Post-Scarcity.
 
 Collaborative Learning and Labor
 
