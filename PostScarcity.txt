@@ -1,1 +1,6 @@
-For the purpose of this project, a Post-Scarcity society is defined as a society where [Autonomous Labor](AutonomousLabor.txt) collects the [energy](Energy.txt) and [raw materials](RawMaterials.txt) necessary to produce the [goods and services](GoodsAndServices.txt) that society needs at [virtually no cost](VirtuallyNoCost.txt)
+For the purpose of this project, a Post-Scarcity society is defined as:
+a society where [Autonomous Labor](https://github.com/TechnoPagan87109/CommunityTBNL/tree/Blueprint/AutonomousLabor.txt)
+collects the [energy](https://github.com/TechnoPagan87109/CommunityTBNL/tree/Blueprint/Energy.txt) and
+[raw materials](https://github.com/TechnoPagan87109/CommunityTBNL/tree/Blueprint/RawMaterials.txt) necessary to
+produce the [goods and services](https://github.com/TechnoPagan87109/CommunityTBNL/tree/Blueprint/GoodsAndServices.txt)
+that society needs at [virtually no cost](https://github.com/TechnoPagan87109/CommunityTBNL/tree/Blueprint/VirtuallyNoCost.txt)
